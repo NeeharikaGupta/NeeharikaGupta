@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeeharikaGupta
-- 👀 I’m interested in Data Science and exploring all domains of AI
-- 🌱 I’m currently working at AI Research Lab, Wipro exploring AI in NLP. I have already worked on CV while interning at ISRO.
+- 👀 I’m interested in AI Research and its intersections.
+- 🌱 I’m currently pursuing MS in CS at University of Southern California, Los Angeles. I will be graduating in May 2025 and I'm looking for full time opportunities(AI/NLP/CV).
 
 
 <!---
