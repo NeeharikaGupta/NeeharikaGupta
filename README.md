@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeeharikaGupta
-- 👀 I’m interested in AI Research and its intersections.
-- 🌱 I’m currently pursuing MS in CS at University of Southern California, Los Angeles. I will be graduating in May 2025 and I'm looking for full time opportunities(AI/NLP/CV).
+- 👀 I’m interested in AI and its intersections.
+- 🌱 I recently completed my MS in CS from University of Southern California(USC) specializing in AI . I'm looking for full time opportunities(AI/NLP/CV/ML/Multimodal AI).
 
 
 <!---
